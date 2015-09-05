@@ -1,0 +1,39 @@
+
+body {
+  background-color: #333;
+  background-image: url(troncity.jpg);
+  overflow: hidden;
+  margin-left: 85px;
+  z-index:-999;
+}
+}
+
+h1 {
+  font-size: 32px;
+}
+
+#heads {
+  background-color: #000;
+}
+
+
+img {
+  width: 20%;
+  height:20%;
+  margin-left: 500px;
+}
+
+h1, p {
+  color: #FFF;
+  text-align: center;
+  float:right;
+}
+
+canvas {
+  background-color: #666;
+  position: absolute;
+  background-image: url(grid.jpg);
+}
+
+.the-arena {
+}
